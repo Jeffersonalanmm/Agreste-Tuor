@@ -5,7 +5,7 @@ BlaBlaCarManager é um projeto para gerenciar caronas de forma eficiente, oferec
 ## Recursos
 
 - **Gerenciamento de Rotas:** Encontre e gerencie rotas de caronas entre diferentes locais de partida e chegada.
-- **Oferecer e Solicitar Caronas:** Ofereça ou solicite caronas, especificando detalhes como horário de partida, horário de chegada, custo e pontos de encontro.
+- **Solicitar Caronas:** Solicite caronas, especificando o local de partida e o local de chegada para que sejam exibidas as caronas com horáiro de partida e de chegada, o tempo de viagem e o preço.
 
 ## Uso
 
