@@ -3,18 +3,35 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String filePath = System.getProperty("user.dir") + File.separator + "src" + File.separator + "teste.txt"; // Modificação do caminho do arquivo
+        String filePath = System.getProperty("user.dir") + File.separator + "teste.txt"; // Modificação do caminho do arquivo
         Graph graph;
 
-        File file = new File(filePath);
-        if (!file.exists()) {
-            System.err.println("Arquivo não encontrado: " + filePath);
-            return;
+        try {
+            File file = new File(filePath);
+            if (!file.exists()) {
+                throw new Exception("Arquivo não encontrado: " + filePath);
+            }
+
+            graph = GraphReader.readGraphFromFile(filePath);
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+            // Tentar o caminho alternativo
+            filePath = System.getProperty("user.dir") + File.separator + "teste.txt";
+            try {
+                File file = new File(filePath);
+                if (!file.exists()) {
+                    throw new Exception("Arquivo não encontrado: " + filePath);
+                }
+
+                graph = GraphReader.readGraphFromFile(filePath);
+            } catch (Exception ex) {
+                System.err.println(ex.getMessage());
+                return;
+            }
         }
 
-        graph = GraphReader.readGraphFromFile(filePath);
-
-        String startCity = "Aguas Belas";
+        String startCity = "Bom Conselho";
+        //Começando em Bom conselho e terminando em Garanhuns
         String destinationCity = "Garanhuns";
 
         if (graph != null) {
