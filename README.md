@@ -1,28 +1,25 @@
-# BlaBlaCarManager
+# OTIMIZAÇÃO DE CUSTO E DE EFICIÊNCIA EM VIAGENS PELO AGRESTE DE PERNAMBUCO ATRAVÉS DA APLICAÇÃO DO ALGORITMO DE DIJKSTRA
 
-BlaBlaCarManager é um projeto para gerenciar caronas de forma eficiente, oferecendo uma experiência similar ao BlaBlaCar. Ele utiliza o algoritmo de Dijkstra para encontrar rotas otimizadas entre locais de partida e chegada.
+# Descrição:
+Este repositório contém um projeto desenvolvido para auxiliar um viajante que está planejando uma viagem de pesquisa pelo agreste de Pernambuco. A região é rica em cultura, história e paisagens deslumbrantes, com várias cidades históricas que o viajante deseja visitar como parte de seu estudo.
 
-## Recursos
+No entanto, o viajante enfrenta o desafio de maximizar seu tempo e recursos, dada a limitação de tempo para concluir sua jornada e as possíveis dificuldades das estradas do agreste de Pernambuco. Para resolver esse problema logístico, utilizamos o algoritmo de Dijkstra, uma ferramenta poderosa em teoria dos grafos, para determinar a rota mais curta entre as cidades desejadas, levando em consideração tanto a distância quanto o tempo médio de deslocamento em cada trecho.
 
-- **Gerenciamento de Rotas:** Encontre e gerencie rotas de caronas entre diferentes locais de partida e chegada.
-- **Solicitar Caronas:** Solicite caronas, especificando o local de partida e o local de chegada para que sejam exibidas as caronas com horáiro de partida e de chegada, o tempo de viagem e o preço.
+# Conteúdo do Repositório:
 
-## Uso
+src/: Pasta contendo os códigos-fonte do projeto e o arquivo com as arestas (caminho de uma cidade a outra), pesos e tempo em minutos.
+README.md: Documento explicativo sobre o projeto, seu propósito e como utilizá-lo.
+# Instruções de Uso:
 
-Para usar o BlaBlaCarManager, simplesmente [baixe](#) ou [clone](#) o repositório e siga as [instruções de instalação](#) na documentação.
+   1. Clone o repositório para sua máquina local.
+   2. Certifique-se de ter as dependências necessárias instaladas.
+   3. Execute o arquivo principal do projeto para iniciar a aplicação.
+   4. Insira as cidades desejadas para visitar durante a viagem.
+   5. O algoritmo de Dijkstra será aplicado para encontrar a rota mais curta entre as cidades selecionadas, considerando a distância e o tempo médio de deslocamento em cada trecho.
+   6. O resultado será exibido, mostrando a rota otimizada para o viajante.
 
-## Instalação
+# Contribuições:
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para enviar uma pull request. Juntos, podemos tornar este projeto ainda mais útil para outros viajantes e pesquisadores interessados em explorar o agreste de Pernambuco de forma eficiente.
 
-Para instalar o BlaBlaCarManager, siga estes passos:
-
-1. [Baixe](#) ou [clone](#) o repositório.
-2. Instale as dependências necessárias.
-3. Execute a aplicação localmente ou implante-a em um servidor.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você tiver sugestões, relatórios de bugs ou solicitações de recursos, sinta-se à vontade para [abrir um problema](#) ou [enviar um pull request](#).
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+# Licença:
+Este projeto é licenciado sob a MIT License. Sinta-se livre para usar, modificar e distribuir o código conforme necessário, desde que a atribuição adequada seja fornecida.
