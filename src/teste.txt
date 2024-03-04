@@ -1,0 +1,142 @@
+Belo Jardim,Sanharo,17,17
+Sanharo,Belo Jardim,17,17
+Belo Jardim,Brejo da Madre de Deus,36,40
+Brejo da Madre de Deus,Belo Jardim,36,40
+Belo Jardim,Tacaimbo,20,20
+Tacaimbo,Belo Jardim,20,20
+Belo Jardim,Sao Bento do Una,25,34
+Sao Bento do Una,Belo Jardim,25,34
+Brejo da Madre de Deus,Tacaimbo,43,30
+Tacaimbo,Brejo da Madre de Deus,43,30
+Tacaimbo,Sao Caetano,19,19
+Sao Caetano,Tacaimbo,19,19
+Sao Caetano,Cachoeirinha,22,23
+Cachoeirinha,Sao Caetano,22,23
+Sao Caetano,Caruaru,19,23
+Caruaru,Sao Caetano,19,23
+Sanharo,Pesqueira,16,20
+Pesqueira,Sanharo,16,20
+Pesqueira,Pocao,27,38
+Pocao,Pesqueira,27,38
+Pesqueira,Buique,69,68
+Buique,Pesqueira,69,68
+Pesqueira,Alagoinha,16,19
+Alagoinha,Pesqueira,16,19
+Alagoinha,Venturosa,21,19
+Venturosa,Alagoinha,21,19
+Venturosa,Caetes,39,35
+Caetes,Venturosa,39,35
+Venturosa,Pedra,12,14
+Pedra,Venturosa,12,14
+Venturosa,Aguas Belas,86,98
+Aguas Belas,Venturosa,86,98
+Buique,Tupanatinga,26,25
+Tupanatinga,Buique,26,25
+Tupanatinga,Itaiba,76,49
+Itaiba,Tupanatinga,76,49
+Itaiba,Aguas Belas,39,35
+Aguas Belas,Itaiba,39,35
+Aguas Belas,Paranatama,67,66
+Paranatama,Aguas Belas,67,66
+Aguas Belas,Iati,39,40
+Iati,Aguas Belas,39,50
+Iati,Paranatama,36,40
+Paranatama,Iati,36,40
+Iati,Bom Conselho,26,48
+Bom Conselho,Iati,26,48
+Bom Conselho,Saloa,26,36
+Saloa,Bom Conselho,26,36
+Bom Conselho,Terezinha,17,15
+Terezinha,Bom Conselho,17,15
+Bom Conselho,Lagoa do Ouro,30,25
+Lagoa do Ouro,Bom Conselho,30,25
+Saloa,Paranatama,18,21
+Paranatama,Saloa,18,21
+Paranatama,Garanhuns,23,26
+Garanhuns,Paranatama,23,26
+Garanhuns,Caetes,20,19
+Caetes,Garanhuns,20,19
+Garanhuns,Brejao,23,24
+Brejao,Garanhuns,23,24
+Garanhuns,Lagoa do Ouro,35,40
+Lagoa do Ouro,Garanhuns,35,40
+Garanhuns,Correntes,45,43
+Correntes,Garanhuns,45,43
+Garanhuns,Jucati,32,37
+Jucati,Garanhuns,32,37
+Garanhuns,Sao Joao,17,21
+Sao Joao,Garanhuns,17,21
+Caetes, Capoeiras,5,10
+Capoeiras,Caetes,5,10
+Sao Bento do Una,Capoeiras,33,32
+Capoeiras,Sao Bento do Una,33,32
+Sao Bento do Una,Lajedo,21,26
+Lajedo,Sao Bento do Una,21,26
+Lagoa do Ouro,Terezinha,30,40
+Terezinha,Lagoa do Ouro,30,40
+Terezinha,Brejao,9,11
+Brejao,Terezinha,9,11
+Lagoa do Ouro,Correntes,15,24
+Correntes,Lagoa do Ouro,15,24
+Lagoa do Ouro,Palmeirinha,27,40
+Palmeirinha,Lagoa do Ouro,27,40
+Correntes,Palmeirinha,24,31
+Palmeirinha,Correntes,24,31
+Palmeirinha,Angelim,16,21
+Angelim,Palmeirinha,16,21
+Angelim,Sao Joao,11,11
+Sao Joao,Angelim,11,11
+Angelim,Canhotinho,13,17
+Canhotinho,Angelim,13,17
+Canhotinho,Sao Joao,22,24
+Sao Joao,Canhotinho,22,24
+Canhotinho,Jurema,39,43
+Jurema,Canhotinho,39,43
+Canhotinho,Lajedo,33,32
+Lajedo,Canhotinho,33,32
+Lajedo,Cachoeirinha,21,20
+Cachoeirinha,Lajedo,21,20
+Lajedo,Ibirajuba,23,32
+Ibirajuba,Lajedo,23,32
+Lajedo,Jurema,30,37
+Jurema,Lajedo,30,37
+Lajedo,Calcado,12,19
+Calcado,Lajedo,12,19
+Calcado,Jupi,12,18
+Jupi,Calcado,12,18
+Jupi,Jucati,8,12
+Jucati,Jupi,8,12
+Jurema,Panelas,25,32
+Panelas,Jurema,25,32
+Panelas,Cupira,17,25
+Cupira,Panelas,17,25
+Cupira,Agrestina,18,18
+Agrestina,Cupira,18,18
+Agrestina,Caruaru,45,25
+Caruaru,Agrestina,45,25
+Agrestina,Altinho,15,14
+Altinho,Agrestina,15,14
+Altinho,Ibirajuba,17,18
+Ibirajuba,Altinho,17,18
+Caruaru,Bezerros,62,29
+Bezerros,Caruaru,62,29
+Caruaru,Riacho das Almas,37,28
+Riacho das Almas,Caruaru,37,28
+Caruaru,Toritama,36,35
+Toritama,Caruaru,36,35
+Bezerros,Gravata,23,22
+Gravata,Bezerros,23,22
+Riacho das Almas,Frei Miguelinho,26,53
+Frei Miguelinho,Riacho das Almas,26,53
+Riacho das Almas,Cumaru,28,32
+Cumaru,Riacho das Almas,28,32
+Cumaru,Surubim,72,83
+Surubim,Cumaru,72,83
+Surubim,Frei Miguelinho,13,19
+Frei Miguelinho,Surubim,13,19
+Frei Miguelinho,Vertentes,9,17
+Vertentes,Frei Miguelinho,9,17
+Vertentes,Toritama,15,18
+Toritama,Vertentes,15,18
+Lajedo,Jupi,13,12
+Jupi,Lajedo,Jupi,13,12
